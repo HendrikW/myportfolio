@@ -1,0 +1,42 @@
+body {
+  background-color: lightgrey;
+}
+
+header {
+  background-color: #b7c0c8;
+  padding: 20px;
+}
+
+main {
+  height: 500px;
+  text-align: center;
+  display: flex;
+  justify-content: flex-start;  
+}
+
+aside {
+  text-align: left;
+  height: 500px;
+  width: 400px;
+  padding: 50px;
+  background-color: darkgrey;
+}
+
+h1 {
+  margin: 30px;
+  font-family: MyanmarMN-Bold, sans-serif;
+  font-size: 100px;
+  color: #4c4d4f;
+  letter-spacing: -4px;
+  text-align: right;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  margin: 30px;
+  font-family: MyanmarMN-Bold, sans-serif;
+  font-size: 48px;
+  color: #787d7a;
+  letter-spacing: -4px;
+  text-align: right;
+}
